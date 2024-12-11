@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../test"
+		},
+		{
+			"path": "../style.css"
+		},
+		{
+			"path": "../Tabulka"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
